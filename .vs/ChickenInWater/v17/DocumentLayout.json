@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Game_Project\\ChickenInWater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\jellycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jellycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\bosscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\wave4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wave4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\wave3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wave3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|e:\\game_project\\chickeninwater\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\bossshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|E:\\Game_Project\\ChickenInWater\\assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B286F4-3360-97AB-FA69-275F355A193E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaveController.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\WaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveController.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\WaveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:52:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wave3.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\Wave3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wave3.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\Wave3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wave3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:46:48.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wave4.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\Wave4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wave4.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\Wave4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wave4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:45:20.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:19:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BossControl.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\BossControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossControl.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\BossControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:01:09.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyShooting.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\EnemyShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShooting.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\EnemyShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyShooting.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:03:46.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JellyControl.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\JellyControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JellyControl.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\JellyControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JellyControl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:13:50.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAtwCwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:43:15.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BossShooting.cs",
+              "DocumentMoniker": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\BossShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossShooting.cs",
+              "ToolTip": "E:\\Game_Project\\ChickenInWater\\Assets\\Scripts\\BossShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossShooting.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:04:43.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
